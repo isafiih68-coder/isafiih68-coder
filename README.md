@@ -12,12 +12,15 @@
 ---
 
 ### 🚀 About IN.TECH
-Platform e-commerce ringan buat UMKM rumahan biar bisa jualan online tanpa ribet.
 
-**Fitur:** 🛒 Cart | 🧾 Checkout & Invoice | 💬 WhatsApp Integration | 📦 Stock Management
+IN.TECH — E-commerce, Simplified.
+
+A purpose-built platform for MSMEs. No bloatware, no complex setup. Just a clean, lightweight system that helps homemade product sellers manage products, orders, and customers efficiently.
+
+**Key Features:** Smart Cart, Automated Invoicing, Direct WhatsApp Integration, and Real-time Stock Management.
 
 - 🔒 **Main Project:** Homemade-app (Private Core)
-- 🌐 **Live:** https://inet.pythonanywhere.com
+- 🌐 **Live Demo:** https://inet.pythonanywhere.com
 - 🛠️ **Stack:** Python, Flask, SQLite3, Bootstrap
 
 <p align="center">
