@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./IMG_20261115_233109.jpg" width="100%" alt="In.Tech Banner">
+</p>
 
 <h1 align="center">Hi there 👋 I'm Imam Syafi'ih</h1>
 
