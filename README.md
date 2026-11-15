@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="IMG-20261009-WA7559.jpg" width="100%" />
-</p>
+
 
 <h1 align="center">Hi there 👋 I'm Imam Syafi'ih</h1>
 
