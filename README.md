@@ -27,6 +27,3 @@ A purpose-built platform for MSMEs. No bloatware, no complex setup. Just a clean
   <img src="https://skillicons.dev/icons?i=python,flask,sqlite,js,html,css,git,github" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isafiih68-coder&show_icons=true&theme=tokyonight" />
-</p>
